@@ -2,7 +2,7 @@
 
 **Table of Contents** 
 
-- [COVID-19](#covid-19)
+- [🦠 COVID-19](#-covid-19)
   - [Before the Hackathon](#before-the-hackathon)
     - [Vaccination Requirements](#vaccination-requirements)
     - [Covid Test Documentation](#covid-test-documentation)
@@ -11,13 +11,13 @@
     - [Self-report Response](#self-report-response)
   - [After the Hackathon](#after-the-hackathon)
     - [Reporting post-event positive-tests](#reporting-post-event-positive-tests)
-- [Additional Day-of Safety]()
-  - Point-of-Contact
-  - Sleeping
-  - Supervision
-- [Travel Safety]()
-  - Dedicated PoC
-  - Airport Chaperoning 
+- [🛟 Additional Day-of Safety](#-additional-day-of-safety)
+  - [Point of Contact](#point-of-contact)
+  - [Sleeping](#sleeping)
+  - [Supervision](#supervision)
+- [🛫 Travel Safety](#-travel-safety)
+  - [Dedicated Point of Contact](#dedicated-point-of-contact)
+  - [Airport Chaperoning](#airport-chaperoning)
 
 Documentation and implementation is handled by the **safety working group**. 
 If you have any questions, or need to contact someone about these docs, please reach out to them.
@@ -83,7 +83,7 @@ The venue is closed doors which means that only those that have registered will 
 
 ## 🛫 Travel Safety
 
-### Travel Point of Contact
+### Dedicated Point of Contact
 
 A dedicated travel point of contact will be established. They will be available to support attendees as they travel to and from the event. This will be a remote role, to ensure they are focused. They will be armed with all required travel information.
 
