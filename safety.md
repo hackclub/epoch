@@ -5,7 +5,7 @@
 - [🦠 COVID-19](#-covid-19)
   - [Before the Hackathon](#before-the-hackathon)
     - [Vaccination Requirements](#vaccination-requirements)
-    - [Covid Test Documentation](#covid-test-documentation)
+    - [Covid Test Documentation](#covid-self-testing)
   - [At the Hackathon](#at-the-hackathon)
     - [Resources](#resources)
     - [Self-report Response](#self-report-response)
@@ -25,8 +25,7 @@ If you have any questions, or need to contact someone about these docs, please r
 | Name             | GitHub            | Email                       |
 | ---------------- | ----------------- | --------------------------- |
 | Sam Poder        | @sampoder         | sam@hackclub.com            |
-| Athul Blesson    | @athul-blesson    | athul@hackclub.com          |
-| Arsh Shrivastava | @arshshrivastavaa | arsh@epoch.hackclub.com     |
+| Deven Jadhav    | @devenjadhav    | dev@hackclub.com          |
 
 
 ## 🦠 COVID-19
@@ -35,11 +34,11 @@ If you have any questions, or need to contact someone about these docs, please r
 
 ### Vaccination Requirements
 
-All attendees will be required to submit proof of full vaccination. Attendees may be asked to show proof at a pre-event check-in and at the entrance of the venue, so **attendees should bring their proof of vaccination**.
+All attendees will be required to have full vaccination against COVID-19.
 
-### COVID Test Documentation
+### COVID Self Testing
 
-We require all attendees & organisers produce the results of a negative antigen test within 24 hours of the event or (if flying) before you leave to travel.
+We require all attendees & organisers to take a antigen test within 24 hours of the event or (if flying) before you leave to travel. Those positive may not enter the venue.
 
 ## At the Hackathon
 
