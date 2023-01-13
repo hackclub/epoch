@@ -22,7 +22,14 @@ Epoch was organised in public on the [Hack Club Slack](https://hackclub.com/slac
 
 ## 📌 Within This Repository
 
-TBW
+| Document | Description |
+| ------- | ------- |
+| [`outline.md`](/outline.md) | Epoch's vision, budget, staffing, and problem statements. |
+| [`safety.md`](/safety.md)  | Epoch's general safety and COVID-19 policies / protocols. |
+| [`/judging`](/judging) | Proposals for how judging should run at Epoch. |
+| [`/theme`](/theme) | Proposals for how we should choose Epoch's theme. |
+
+See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional context surrounding [`/judging`](/judging) & [`/theme`](/theme).
 
 ## 🗃️ Associated GitHub Repositories
 
