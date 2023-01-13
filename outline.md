@@ -2,7 +2,7 @@
 
 **Budget:** $40K for event itself. $4K emergency budget for day-of. There will be more costs around sending HQ staff and making a film, etc., this will come from HQ & not be in the event’s budget.
 
-**Staffing:** High schooler led, with HQ staff support and involved.
+**Staffing:** High schooler led, with HQ staff support.
 
 **Problem Statements:**
 
