@@ -36,7 +36,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 | Repository | Description |
 | ------- | ------- |
 | [`www-epoch`](https://github.com/hackclub/www-epoch) | Epoch's website! |
-| [`epoch-register`](https://github.com/hackclub/epoch-registrations)  | Website for registering for Epoch. |
+| [`epoch-register`](https://github.com/hackclub/epoch-register)  | Website for registering for Epoch. |
 | [`epoch-registrations`](https://github.com/hackclub/epoch-registrations)  | Slack bot for registering for Epoch. |
 | [`epoch-prompter`](https://github.com/hackclub/epoch-prompter) | A static Next.js site to choose a prompt for Epoch. |
 | [`epoch-mission-control`](https://github.com/hackclub/epoch-mission-control) | Escape-room-style event for Epoch. |
