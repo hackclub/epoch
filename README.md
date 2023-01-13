@@ -50,7 +50,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 | [🎨 Figma](https://www.figma.com/file/jW5fmzrwUF4d6NZ2fHLRH9/Epoch?t=OISTk8mnHvlRwRpm-6) | Home of our branding assets & swag designs. |
 | [🛹 Project Board](https://github.com/orgs/hackclub/projects/16) | Project board for the early stages of the project. |
 | [🔢 Budget](https://docs.google.com/spreadsheets/d/1G-ukyf7spB8bfO9Mqnt8ks9swVIojfriPt1P4pEyWw4/edit?usp=sharing) | Open-source budget for Epoch (includes transactions on the Indian credit card). |
-| [📃 Venue Outreach Email](https://docs.google.com/document/d/1OyN7rPeg5BE-lFz1G2p_Y0eLViYmgk-UaQ6vZvBN6Zo/edit?usp=sharing) | Email copy used for venue outreach. |
+| [📃 Venue Outreach](https://docs.google.com/document/d/1OyN7rPeg5BE-lFz1G2p_Y0eLViYmgk-UaQ6vZvBN6Zo/edit?usp=sharing) | Email copy used for venue outreach. |
 | [📃 Announcements](https://docs.google.com/document/d/1iDvmGILL0mb3I3r8DXbv9bhZ_ZjCVX7VsZwBEnpe7oQ/edit?usp=sharing) | Copy used for announcements on Slack & Twitter as well as to Hack Club's mailing list. |
 | [📕 Parent's Guide](https://cloud-o944bwtfx-hack-club-bot.vercel.app/0a_parent_s_guide_to_epoch.pdf) | Guide for parents with key safety information. |
 | [📃 Stipend Policy](https://docs.google.com/document/d/12uwVfoZG2AlfNkoSrzoIFcFAFfd179Qh2g-LSb4nG7Q/edit?usp=sharing) | Policy on how stipends should be distributed. |
@@ -58,7 +58,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 | [🎤 Opening Ceremony](https://cloud-f0hrhf8jz-hack-club-bot.vercel.app/0epoch_-_opening_ceremony.pdf) | Slides used to introduce Hack Club & Epoch. |
 | [📃 Ice Breaker Activity](https://docs.google.com/document/d/1OjOJSO1UivsyRrd-4JwlujfhphFSD74Dr58KjLxbswo/edit?usp=sharing) | Planning for ice-breaker activity in the opening ceremony. |
 | [📃 Food Menu](https://docs.google.com/document/d/19FevupqWtS-VegZIvK6CJYvfPIs5e84k6ooyjfkiVyU/edit?usp=sharing) | Menu for meals offered at Epoch. |
-| [📃 Workshops Schedule](https://docs.google.com/document/d/1767Za1rQsNxqv9BwArpZ3wTSXIKsh75Wwn-tfR7Xt4E/edit) | Schedule for workshops hosted at Epoch. |
+| [📃 Workshops](https://docs.google.com/document/d/1767Za1rQsNxqv9BwArpZ3wTSXIKsh75Wwn-tfR7Xt4E/edit) | Schedule for workshops hosted at Epoch. |
 | [📃 Ideas Braindump](https://docs.google.com/document/d/1m-2JV8b4kXY3LRH5PC5FOWGPKVsN54WMkOiprX1iISU/edit?usp=sharing) | A random brainstorm by [@sampoder](https://github.com/sampoder) and other Hack Clubbers. |
 
 
