@@ -1,4 +1,5 @@
-# Epoch
+<h1> <img src="https://user-images.githubusercontent.com/39828164/212313492-3a6be907-bea6-4056-816e-3da020a5dc31.jpg" /> </h1>
+
 
 _*Also see [`hackclub/www-epoch`](https://github.com/hackclub/www-epoch) for our website!*_
 
