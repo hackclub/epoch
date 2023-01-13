@@ -4,7 +4,21 @@ On December 30th 2022, 180 hackers from around the world travelled to the Delhi 
 
 ## 💬 Public Slack Channels
 
-TBW
+Epoch was organised in public on the [Hack Club Slack](https://hackclub.com/slack) by dozens of Hack Clubbers. We've kept them open for your exploration. Looking through them will give you insight into the challenges we faced and how we overcome them. 
+
+| Channel | Purpose |
+| ------- | ------- |
+| [`#epoch-bts`](https://hackclub.slack.com/archives/C044HSLSU06) | Everything & anything related to organising Epoch. |
+| [`#epoch-food-n-fun`](https://hackclub.slack.com/archives/C048947LXHD) | Coordinating meals and side activities. |
+| [`#epoch-swag-n-prizes`](https://hackclub.slack.com/archives/C048S4EMQE8) | Designing & sourcing swag as well as selecting & purchasing prizes. |
+| [`#epoch-theme-n-judging`](https://hackclub.slack.com/archives/C048S4F1C9J) | Planning for Epoch's theme selection and judging process. |
+| [`#epoch-workshops`](https://hackclub.slack.com/archives/C048PL8PRLJ) | Organising workshops for Epoch. |
+| [`#epoch-suppliers`](https://hackclub.slack.com/archives/C04EMQG47B5) | Sourcing supplies & swag from distributors / manufacturers. |
+| [`#epoch-satellites`](https://hackclub.slack.com/archives/C04BQJ3PXNW) | Organising a series of smaller Epoch satellite events in the USA. |
+| [`#epoch-cross-event-activity`](https://hackclub.slack.com/archives/C04G5EMGERF) | Coordinating an escape room-esque event for all Epoch events to participate in, together. |
+| [`#epoch-vt`](https://hackclub.slack.com/archives/C04BX4F6HGE) | Organising a Epoch satellite hackathon in Shelburne, VT, USA. |
+| [`#epoch-ba`](https://hackclub.slack.com/archives/C04AKL9UKEY) | Organising a Epoch satellite hackathon in Oakland, CA, USA. |
+| [`#epoch-texas`](https://hackclub.slack.com/archives/C04CGDDLC72) | Organising a Epoch satellite meetup in Austin, TX, USA. |
 
 ## 📌 Within This Repository
 
