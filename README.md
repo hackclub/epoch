@@ -3,3 +3,5 @@
 ![We Gathered (2)](https://user-images.githubusercontent.com/39828164/220002325-b6faedf6-3ee1-444f-a33c-5a4f81e49522.png)
 
 ![We Gathered (3)](https://user-images.githubusercontent.com/39828164/220002402-d709cd87-4c53-4981-8f90-6992bbca7fcc.png)
+
+![We Gathered (4)](https://user-images.githubusercontent.com/39828164/220002489-91e4c6d7-f926-4062-a8d0-aa56e549ebd4.png)
