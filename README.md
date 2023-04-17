@@ -59,6 +59,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 | [📃 Ice Breaker Activity](https://docs.google.com/document/d/1OjOJSO1UivsyRrd-4JwlujfhphFSD74Dr58KjLxbswo/edit?usp=sharing) | Planning for ice-breaker activity in the opening ceremony. |
 | [📃 Food Menu](https://docs.google.com/document/d/19FevupqWtS-VegZIvK6CJYvfPIs5e84k6ooyjfkiVyU/edit?usp=sharing) | Menu for meals offered at Epoch. |
 | [📃 Workshops](https://docs.google.com/document/d/1767Za1rQsNxqv9BwArpZ3wTSXIKsh75Wwn-tfR7Xt4E/edit) | Schedule for workshops hosted at Epoch. |
+| [⏰ Run Of Show](https://docs.google.com/spreadsheets/d/1M3rOe1GRqriDZkEdiqrMQ6XMHIhSQ2_mrgG66n93RIo/edit#gid=0) | The run of show for Epoch|
 | [📃 Ideas Braindump](https://docs.google.com/document/d/1m-2JV8b4kXY3LRH5PC5FOWGPKVsN54WMkOiprX1iISU/edit?usp=sharing) | A random brainstorm by [@sampoder](https://github.com/sampoder) and other Hack Clubbers. |
 | [📸 The Photo Album](https://photos.app.goo.gl/CtgXTtiL37G3yX1E6) | Thousands of photos from Epoch, free for use by Hack Clubbers! |
 | [📸 Attendee's Photos](https://hack.af/epoch-album) | See Epoch from an attendee's perspective. |
