@@ -59,6 +59,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 | [📃 Ice Breaker Activity](https://docs.google.com/document/d/1OjOJSO1UivsyRrd-4JwlujfhphFSD74Dr58KjLxbswo/edit?usp=sharing) | Planning for ice-breaker activity in the opening ceremony. |
 | [📃 Food Menu](https://docs.google.com/document/d/19FevupqWtS-VegZIvK6CJYvfPIs5e84k6ooyjfkiVyU/edit?usp=sharing) | Menu for meals offered at Epoch. |
 | [📃 Workshops](https://docs.google.com/document/d/1767Za1rQsNxqv9BwArpZ3wTSXIKsh75Wwn-tfR7Xt4E/edit) | Schedule for workshops hosted at Epoch. |
+| [⏰ Run Of Show](https://docs.google.com/spreadsheets/d/1M3rOe1GRqriDZkEdiqrMQ6XMHIhSQ2_mrgG66n93RIo/edit#gid=0) | The run of show for Epoch|
 | [📃 Ideas Braindump](https://docs.google.com/document/d/1m-2JV8b4kXY3LRH5PC5FOWGPKVsN54WMkOiprX1iISU/edit?usp=sharing) | A random brainstorm by [@sampoder](https://github.com/sampoder) and other Hack Clubbers. |
 | [📸 The Photo Album](https://photos.app.goo.gl/CtgXTtiL37G3yX1E6) | Thousands of photos from Epoch, free for use by Hack Clubbers! |
 | [📸 Attendee's Photos](https://hack.af/epoch-album) | See Epoch from an attendee's perspective. |
@@ -67,7 +68,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 ## 🙏 Acknowledgements
 
 Epoch was made possible by dozens of Hack Clubbers. Thank you. A special thank you to our Temporal Agents: 
-[Aaryan](https://github.com/aaryanporwal), [Akshay](https://github.com/akshay-99h), Anisha, [Arash](https://github.com/arashnrim/), [Ara](https://github.com/tregsthedev), [Arsh](https://github.com/arshshrivastavaa), [Ashish](https://github.com/ashishdevo28), [Christina](https://github.com/christinaasquith), [Dev](https://github.com/devenjadhav), [Fayd](https://github.com/faisalsayed10), [Gaurav](https://github.com/yednapg), [Kara](https://github.com/karamassie), Karan, [Mahi](https://github.com/mahi-agarwal), [Neil](https://github.com/neiltheghosh), Nila, [Nishant](https://github.com/Nishant2907), [Ojas](https://github.com/0jas0jas), [Sam](https://github.com/sampoder), Shatakshi, [Tej](https://github.com/tejasag), [Khaleel](https://github.com/khalby786) & [Zach](https://github.com/zachlatta).
+[Aaryan](https://github.com/aaryanporwal), [Akshay](https://github.com/akshay-99h), Anisha, [Arash](https://github.com/arashnrim/), [Arav](https://github.com/tregsthedev), [Arsh](https://github.com/arshshrivastavaa), [Ashish](https://github.com/ashishdevo28), [Christina](https://github.com/christinaasquith), [Dev](https://github.com/devenjadhav), [Fayd](https://github.com/faisalsayed10), [Gaurav](https://github.com/yednapg), [Kara](https://github.com/karamassie), Karan, [Mahi](https://github.com/mahi-agarwal), [Neil](https://github.com/neiltheghosh), Nila, [Nishant](https://github.com/Nishant2907), [Ojas](https://github.com/0jas0jas), [Sam](https://github.com/sampoder), Shatakshi, [Tej](https://github.com/tejasag), [Khaleel](https://github.com/khalby786) & [Zach](https://github.com/zachlatta).
 
 <img src="https://user-images.githubusercontent.com/39828164/212359840-ee3c10f6-ffea-41f6-8b11-a8343f4b36e4.jpg" width="450px" />
 
