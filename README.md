@@ -46,7 +46,7 @@ See [🟣 Issue #3](https://github.com/hackclub/epoch/issues/3) for additional c
 
 | Document | Description |
 | ------- | ------- |
-| [🏦 Hack Club Bank](https://bank.hackclub.com/epoch) | Epoch's transparent account on Hack Club Bank. |
+| [🏦 HCB](https://bank.hackclub.com/epoch) | Epoch's transparent account on HCB. |
 | [🎨 Figma](https://www.figma.com/file/jW5fmzrwUF4d6NZ2fHLRH9/Epoch?t=OISTk8mnHvlRwRpm-6) | Home of our branding assets & swag designs. |
 | [🛹 Project Board](https://github.com/orgs/hackclub/projects/16) | Project board for the early stages of the project. |
 | [🔢 Budget](https://docs.google.com/spreadsheets/d/1G-ukyf7spB8bfO9Mqnt8ks9swVIojfriPt1P4pEyWw4/edit?usp=sharing) | Open-source budget for Epoch (includes transactions on the Indian credit card). |
